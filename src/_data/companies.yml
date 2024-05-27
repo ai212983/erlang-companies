@@ -471,3 +471,10 @@ Quanterall:
   location: Global
   github: https://github.com/contextu-al/
   description: Guide, Retain, Grow without writing Code. Product adoption is simpler and faster with Contextual.
+
+"SUPREMATIC":
+  industry: Consultancy
+  url: https://suprematic.de/
+  location: Germany
+  github: https://github.com/suprematic/
+  description: Software consultancy and development company specializing in Erlang, Elixir, and Clojure. Creating reliable, fault-tolerant systems that scale efficiently.
